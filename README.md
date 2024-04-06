@@ -19,9 +19,9 @@ this lua file will be `require`'d upon loading the program, and should `return` 
 
 * [watch *the best way to count*](https://youtu.be/rDDaEVcwIJM)
 * [watch the music video](https://youtu.be/MI4xSjRBa_o)
-* [read the script, footnotes, and other goodies](https://github.com/lucitone/thebestwaytocount)
+* [read the script, footnotes, and other goodies](https://github.com/lucillablessing/thebestwaytocount)
 * [listen to the OST](https://lucilla.bandcamp.com/album/the-best-way-to-count-ost)
-* [download *binary animations*](https://lucitone.itch.io/binary-animations)
+* [download *binary animations*](https://lucillablessing.itch.io/binary-animations)
 
 ## Credits
 
